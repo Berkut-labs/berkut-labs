@@ -1,16 +1,29 @@
-## Hi there 👋
+Berkut
 
-<!--
-**Berkut-labs/berkut-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent Learner | Engineering & Technology
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in exploring how complex systems work, building practical projects, and developing technical skills across different engineering disciplines.
+
+Areas of Interest
+
+- Cybersecurity: Network security, Linux, and Python.
+- Aerospace Engineering: Gas turbine theory, jet engines, and propulsion systems.
+- Electronics & Embedded Systems: ESP32, microcontrollers, and hardware projects.
+- Engineering Research: Technical analysis, documentation, and experimental projects.
+
+Current Focus
+
+- Developing practical skills in network security.
+- Studying Linux and computer networking.
+- Exploring gas turbine and jet engine engineering.
+- Building and documenting electronics projects.
+
+Philosophy
+
+Learn deeply. Build practically. Document everything.
+
+---
+
+This profile is a collection of my learning journey, experiments, research, and engineering projects.
